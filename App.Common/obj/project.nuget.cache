@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "07P/4trIXfk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Thinkpad\\source\\repos\\api\\App.Common\\App.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thinkpad\\.nuget\\packages\\microsoft.bcl.timeprovider\\8.0.1\\microsoft.bcl.timeprovider.8.0.1.nupkg.sha512",
+    "C:\\Users\\Thinkpad\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.0\\microsoft.extensions.configuration.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\Thinkpad\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\Thinkpad\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0\\microsoft.extensions.primitives.9.0.0.nupkg.sha512",
+    "C:\\Users\\Thinkpad\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.2.0\\microsoft.identitymodel.abstractions.8.2.0.nupkg.sha512",
+    "C:\\Users\\Thinkpad\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.2.0\\microsoft.identitymodel.jsonwebtokens.8.2.0.nupkg.sha512",
+    "C:\\Users\\Thinkpad\\.nuget\\packages\\microsoft.identitymodel.logging\\8.2.0\\microsoft.identitymodel.logging.8.2.0.nupkg.sha512",
+    "C:\\Users\\Thinkpad\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.2.0\\microsoft.identitymodel.tokens.8.2.0.nupkg.sha512",
+    "C:\\Users\\Thinkpad\\.nuget\\packages\\microsoft.openapi\\1.6.22\\microsoft.openapi.1.6.22.nupkg.sha512",
+    "C:\\Users\\Thinkpad\\.nuget\\packages\\swashbuckle.aspnetcore.annotations\\7.0.0\\swashbuckle.aspnetcore.annotations.7.0.0.nupkg.sha512",
+    "C:\\Users\\Thinkpad\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\7.0.0\\swashbuckle.aspnetcore.swagger.7.0.0.nupkg.sha512",
+    "C:\\Users\\Thinkpad\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\7.0.0\\swashbuckle.aspnetcore.swaggergen.7.0.0.nupkg.sha512",
+    "C:\\Users\\Thinkpad\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.2.0\\system.identitymodel.tokens.jwt.8.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
