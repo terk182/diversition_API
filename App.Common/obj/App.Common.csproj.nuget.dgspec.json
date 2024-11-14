@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Thinkpad\\source\\repos\\api\\App.Common\\App.Common.csproj": {}
+    "C:\\Users\\Thinkpad\\source\\repos\\api\\diversition_API\\App.Common\\App.Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Thinkpad\\source\\repos\\api\\App.Auth\\App.Auth.csproj": {
+    "C:\\Users\\Thinkpad\\source\\repos\\api\\diversition_API\\App.Auth\\App.Auth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Thinkpad\\source\\repos\\api\\App.Auth\\App.Auth.csproj",
+        "projectUniqueName": "C:\\Users\\Thinkpad\\source\\repos\\api\\diversition_API\\App.Auth\\App.Auth.csproj",
         "projectName": "App.Auth",
-        "projectPath": "C:\\Users\\Thinkpad\\source\\repos\\api\\App.Auth\\App.Auth.csproj",
+        "projectPath": "C:\\Users\\Thinkpad\\source\\repos\\api\\diversition_API\\App.Auth\\App.Auth.csproj",
         "packagesPath": "C:\\Users\\Thinkpad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Thinkpad\\source\\repos\\api\\App.Auth\\obj\\",
+        "outputPath": "C:\\Users\\Thinkpad\\source\\repos\\api\\diversition_API\\App.Auth\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -83,14 +83,14 @@
         }
       }
     },
-    "C:\\Users\\Thinkpad\\source\\repos\\api\\App.Common\\App.Common.csproj": {
+    "C:\\Users\\Thinkpad\\source\\repos\\api\\diversition_API\\App.Common\\App.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Thinkpad\\source\\repos\\api\\App.Common\\App.Common.csproj",
+        "projectUniqueName": "C:\\Users\\Thinkpad\\source\\repos\\api\\diversition_API\\App.Common\\App.Common.csproj",
         "projectName": "App.Common",
-        "projectPath": "C:\\Users\\Thinkpad\\source\\repos\\api\\App.Common\\App.Common.csproj",
+        "projectPath": "C:\\Users\\Thinkpad\\source\\repos\\api\\diversition_API\\App.Common\\App.Common.csproj",
         "packagesPath": "C:\\Users\\Thinkpad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Thinkpad\\source\\repos\\api\\App.Common\\obj\\",
+        "outputPath": "C:\\Users\\Thinkpad\\source\\repos\\api\\diversition_API\\App.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -112,11 +112,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Thinkpad\\source\\repos\\api\\App.Auth\\App.Auth.csproj": {
-                "projectPath": "C:\\Users\\Thinkpad\\source\\repos\\api\\App.Auth\\App.Auth.csproj"
+              "C:\\Users\\Thinkpad\\source\\repos\\api\\diversition_API\\App.Auth\\App.Auth.csproj": {
+                "projectPath": "C:\\Users\\Thinkpad\\source\\repos\\api\\diversition_API\\App.Auth\\App.Auth.csproj"
               },
-              "C:\\Users\\Thinkpad\\source\\repos\\api\\App.Products\\App.Products.csproj": {
-                "projectPath": "C:\\Users\\Thinkpad\\source\\repos\\api\\App.Products\\App.Products.csproj"
+              "C:\\Users\\Thinkpad\\source\\repos\\api\\diversition_API\\App.Products\\App.Products.csproj": {
+                "projectPath": "C:\\Users\\Thinkpad\\source\\repos\\api\\diversition_API\\App.Products\\App.Products.csproj"
               }
             }
           }
@@ -161,14 +161,14 @@
         }
       }
     },
-    "C:\\Users\\Thinkpad\\source\\repos\\api\\App.Products\\App.Products.csproj": {
+    "C:\\Users\\Thinkpad\\source\\repos\\api\\diversition_API\\App.Products\\App.Products.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Thinkpad\\source\\repos\\api\\App.Products\\App.Products.csproj",
+        "projectUniqueName": "C:\\Users\\Thinkpad\\source\\repos\\api\\diversition_API\\App.Products\\App.Products.csproj",
         "projectName": "App.Products",
-        "projectPath": "C:\\Users\\Thinkpad\\source\\repos\\api\\App.Products\\App.Products.csproj",
+        "projectPath": "C:\\Users\\Thinkpad\\source\\repos\\api\\diversition_API\\App.Products\\App.Products.csproj",
         "packagesPath": "C:\\Users\\Thinkpad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Thinkpad\\source\\repos\\api\\App.Products\\obj\\",
+        "outputPath": "C:\\Users\\Thinkpad\\source\\repos\\api\\diversition_API\\App.Products\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

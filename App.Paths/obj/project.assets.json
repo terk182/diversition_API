@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Thinkpad\\source\\repos\\api\\App.Paths\\App.Paths.csproj",
+      "projectUniqueName": "C:\\Users\\Thinkpad\\source\\repos\\api\\diversition_API\\App.Paths\\App.Paths.csproj",
       "projectName": "App.Paths",
-      "projectPath": "C:\\Users\\Thinkpad\\source\\repos\\api\\App.Paths\\App.Paths.csproj",
+      "projectPath": "C:\\Users\\Thinkpad\\source\\repos\\api\\diversition_API\\App.Paths\\App.Paths.csproj",
       "packagesPath": "C:\\Users\\Thinkpad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Thinkpad\\source\\repos\\api\\App.Paths\\obj\\",
+      "outputPath": "C:\\Users\\Thinkpad\\source\\repos\\api\\diversition_API\\App.Paths\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

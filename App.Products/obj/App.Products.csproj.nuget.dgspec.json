@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Thinkpad\\source\\repos\\api\\App.Products\\App.Products.csproj": {}
+    "C:\\Users\\Thinkpad\\source\\repos\\api\\diversition_API\\App.Products\\App.Products.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Thinkpad\\source\\repos\\api\\App.Products\\App.Products.csproj": {
+    "C:\\Users\\Thinkpad\\source\\repos\\api\\diversition_API\\App.Products\\App.Products.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Thinkpad\\source\\repos\\api\\App.Products\\App.Products.csproj",
+        "projectUniqueName": "C:\\Users\\Thinkpad\\source\\repos\\api\\diversition_API\\App.Products\\App.Products.csproj",
         "projectName": "App.Products",
-        "projectPath": "C:\\Users\\Thinkpad\\source\\repos\\api\\App.Products\\App.Products.csproj",
+        "projectPath": "C:\\Users\\Thinkpad\\source\\repos\\api\\diversition_API\\App.Products\\App.Products.csproj",
         "packagesPath": "C:\\Users\\Thinkpad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Thinkpad\\source\\repos\\api\\App.Products\\obj\\",
+        "outputPath": "C:\\Users\\Thinkpad\\source\\repos\\api\\diversition_API\\App.Products\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

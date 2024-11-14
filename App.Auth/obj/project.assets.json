@@ -353,11 +353,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Thinkpad\\source\\repos\\api\\App.Auth\\App.Auth.csproj",
+      "projectUniqueName": "C:\\Users\\Thinkpad\\source\\repos\\api\\diversition_API\\App.Auth\\App.Auth.csproj",
       "projectName": "App.Auth",
-      "projectPath": "C:\\Users\\Thinkpad\\source\\repos\\api\\App.Auth\\App.Auth.csproj",
+      "projectPath": "C:\\Users\\Thinkpad\\source\\repos\\api\\diversition_API\\App.Auth\\App.Auth.csproj",
       "packagesPath": "C:\\Users\\Thinkpad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Thinkpad\\source\\repos\\api\\App.Auth\\obj\\",
+      "outputPath": "C:\\Users\\Thinkpad\\source\\repos\\api\\diversition_API\\App.Auth\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
