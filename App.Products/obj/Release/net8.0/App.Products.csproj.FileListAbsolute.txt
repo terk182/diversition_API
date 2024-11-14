@@ -1,0 +1,13 @@
+C:\Users\Thinkpad\source\repos\api\diversition_API\App.Products\bin\Release\net8.0\App.Products.deps.json
+C:\Users\Thinkpad\source\repos\api\diversition_API\App.Products\bin\Release\net8.0\App.Products.dll
+C:\Users\Thinkpad\source\repos\api\diversition_API\App.Products\bin\Release\net8.0\App.Products.pdb
+C:\Users\Thinkpad\source\repos\api\diversition_API\App.Products\obj\Release\net8.0\App.Products.csproj.AssemblyReference.cache
+C:\Users\Thinkpad\source\repos\api\diversition_API\App.Products\obj\Release\net8.0\App.Products.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thinkpad\source\repos\api\diversition_API\App.Products\obj\Release\net8.0\App.Products.AssemblyInfoInputs.cache
+C:\Users\Thinkpad\source\repos\api\diversition_API\App.Products\obj\Release\net8.0\App.Products.AssemblyInfo.cs
+C:\Users\Thinkpad\source\repos\api\diversition_API\App.Products\obj\Release\net8.0\App.Products.csproj.CoreCompileInputs.cache
+C:\Users\Thinkpad\source\repos\api\diversition_API\App.Products\obj\Release\net8.0\App.Products.sourcelink.json
+C:\Users\Thinkpad\source\repos\api\diversition_API\App.Products\obj\Release\net8.0\App.Products.dll
+C:\Users\Thinkpad\source\repos\api\diversition_API\App.Products\obj\Release\net8.0\refint\App.Products.dll
+C:\Users\Thinkpad\source\repos\api\diversition_API\App.Products\obj\Release\net8.0\App.Products.pdb
+C:\Users\Thinkpad\source\repos\api\diversition_API\App.Products\obj\Release\net8.0\ref\App.Products.dll

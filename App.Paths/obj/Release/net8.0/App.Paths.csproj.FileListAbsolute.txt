@@ -1,0 +1,12 @@
+C:\Users\Thinkpad\source\repos\api\diversition_API\App.Paths\bin\Release\net8.0\App.Paths.deps.json
+C:\Users\Thinkpad\source\repos\api\diversition_API\App.Paths\bin\Release\net8.0\App.Paths.dll
+C:\Users\Thinkpad\source\repos\api\diversition_API\App.Paths\bin\Release\net8.0\App.Paths.pdb
+C:\Users\Thinkpad\source\repos\api\diversition_API\App.Paths\obj\Release\net8.0\App.Paths.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thinkpad\source\repos\api\diversition_API\App.Paths\obj\Release\net8.0\App.Paths.AssemblyInfoInputs.cache
+C:\Users\Thinkpad\source\repos\api\diversition_API\App.Paths\obj\Release\net8.0\App.Paths.AssemblyInfo.cs
+C:\Users\Thinkpad\source\repos\api\diversition_API\App.Paths\obj\Release\net8.0\App.Paths.csproj.CoreCompileInputs.cache
+C:\Users\Thinkpad\source\repos\api\diversition_API\App.Paths\obj\Release\net8.0\App.Paths.sourcelink.json
+C:\Users\Thinkpad\source\repos\api\diversition_API\App.Paths\obj\Release\net8.0\App.Paths.dll
+C:\Users\Thinkpad\source\repos\api\diversition_API\App.Paths\obj\Release\net8.0\refint\App.Paths.dll
+C:\Users\Thinkpad\source\repos\api\diversition_API\App.Paths\obj\Release\net8.0\App.Paths.pdb
+C:\Users\Thinkpad\source\repos\api\diversition_API\App.Paths\obj\Release\net8.0\ref\App.Paths.dll

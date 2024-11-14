@@ -1,0 +1,13 @@
+C:\Users\Thinkpad\source\repos\api\diversition_API\App.Auth\bin\Release\net8.0\App.Auth.deps.json
+C:\Users\Thinkpad\source\repos\api\diversition_API\App.Auth\bin\Release\net8.0\App.Auth.dll
+C:\Users\Thinkpad\source\repos\api\diversition_API\App.Auth\bin\Release\net8.0\App.Auth.pdb
+C:\Users\Thinkpad\source\repos\api\diversition_API\App.Auth\obj\Release\net8.0\App.Auth.csproj.AssemblyReference.cache
+C:\Users\Thinkpad\source\repos\api\diversition_API\App.Auth\obj\Release\net8.0\App.Auth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thinkpad\source\repos\api\diversition_API\App.Auth\obj\Release\net8.0\App.Auth.AssemblyInfoInputs.cache
+C:\Users\Thinkpad\source\repos\api\diversition_API\App.Auth\obj\Release\net8.0\App.Auth.AssemblyInfo.cs
+C:\Users\Thinkpad\source\repos\api\diversition_API\App.Auth\obj\Release\net8.0\App.Auth.csproj.CoreCompileInputs.cache
+C:\Users\Thinkpad\source\repos\api\diversition_API\App.Auth\obj\Release\net8.0\App.Auth.sourcelink.json
+C:\Users\Thinkpad\source\repos\api\diversition_API\App.Auth\obj\Release\net8.0\App.Auth.dll
+C:\Users\Thinkpad\source\repos\api\diversition_API\App.Auth\obj\Release\net8.0\refint\App.Auth.dll
+C:\Users\Thinkpad\source\repos\api\diversition_API\App.Auth\obj\Release\net8.0\App.Auth.pdb
+C:\Users\Thinkpad\source\repos\api\diversition_API\App.Auth\obj\Release\net8.0\ref\App.Auth.dll
