@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:WebApi.Controllers.AuthController.Login(App.Auth.Models.LoginModel)">
+             <summary>
+             
+             </summary>
+             <param name="item"></param>
+             <returns>A newly created TodoItem</returns>
+             <remarks>
+             Sample request:
+            
+               
+                 {
+                    "Username": "terk",
+                    "Password": "1234"
+                 }
+            
+             </remarks>
+        </member>
+        <member name="M:WebApi.Controllers.ProductController.Getproducts">
+            <summary>
+            เรียกดู product ทั้งหมด
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebApi.Controllers.ProductController.GetproductsById(System.Int32)">
+            <summary>
+            เรียกดู product ตาม ID
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebApi.Controllers.ProductController.AddProduct(App.Products.Models.Product)">
+            <summary>
+            เพิ่ม product 
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebApi.Controllers.ProductController.reviews(App.Products.Models.Requests.ReviewsRequest)">
+            <summary>
+            เพิ่ม product review
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebApi.Controllers.ProductController.Getreviews(System.Int32)">
+            <summary>
+            ดู review ตา product ID
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
